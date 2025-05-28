@@ -2,10 +2,10 @@
 * Name:
 * Semester:
 * Topic:
-* Link The Repository: 
 
 
-Note the following is an example outline to help you. Please rework as you need. 
+
+Note the following is an example outline to help you. Please rework as you need, you do not need to follow the section heads and *YOU SHOULD NOT* make everything a bulleted list. This needs to read as an executive report/research paper. 
 
 ## Introduction
 - What is the algorithm/datastructure?
