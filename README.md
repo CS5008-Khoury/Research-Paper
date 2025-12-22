@@ -43,3 +43,9 @@ Make sure to include the following:
 ## Summary
 - Provide a summary of your findings
 - What did you learn?
+
+## LLM Use Disclosure 
+
+
+## References
+
